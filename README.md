@@ -13,9 +13,9 @@
 
 ### 🖼️ Example Output
 
-![Scan Example 1](image1.png)  
-![Scan Example 2](image2.png)  
-![Scan Example 3](image3.png)
+(image1.png)  
+(image2.png)  
+(image3.png)
 
 ## 📥 Download
 
