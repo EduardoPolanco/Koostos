@@ -11,6 +11,12 @@
 - Works offline, no internet required
 - Saves logs to `koostos_scan_log.txt`
 
+### 🖼️ Example Output
+
+![Scan Example 1](image1.png)
+![Scan Example 2](image2.png)
+![Scan Example 3](image3.png)
+
 ## 📥 Download
 
 The zipped `.app` is hosted under the [Releases tab](https://github.com/EduardoPolanco/koostos/releases).
