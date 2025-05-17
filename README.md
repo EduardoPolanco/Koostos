@@ -13,7 +13,7 @@
 
 ## 📥 Download
 
-The zipped `.app` is hosted under the [Releases tab](https://github.com/your-username/koostos/releases).
+The zipped `.app` is hosted under the [Releases tab](https://github.com/EduardoPolanco/koostos/releases).
 
 > ⚠️ **Important for macOS Users**  
 > macOS may block the app the first time you open it.  
