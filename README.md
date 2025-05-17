@@ -46,5 +46,5 @@ If no anomalies are found, feel free to delete the app. It's not meant to be a l
 
 ## 🔒 Disclaimer
 
-Koostos is provided “as-is” with no warranties or guarantees.  
+Koostos is provided “as is” with no warranties or guarantees.  
 It’s a basic tool built for local educational purposes. Use responsibly.
