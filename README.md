@@ -38,6 +38,12 @@ This is a standard Gatekeeper security step for apps not from the App Store. No 
 - If you share or remix it, **credit the original author**
 - **Not intended for resale or monetization**
 
+## 🗑️ Temporary Utility Notice
+
+Koostos was built as a personal offline utility — ideal for quick, one-time scans of your local network.
+
+If no anomalies are found, feel free to delete the app. It's not meant to be a long-term install or ongoing monitoring tool.
+
 ## 🔒 Disclaimer
 
 Koostos is provided “as-is” with no warranties or guarantees.  
