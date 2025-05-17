@@ -1,6 +1,6 @@
 # 🛡️ Koostos – Offline Security Monitor
 
-**Koostos** is a lightweight, offline network scan utility that detects active devices on your local network. It’s built for simplicity — just click and scan.
+**Koostos** is a lightweight, offline network scan utility that detects active devices on your local network. It’s built for simplicity; just click and scan.
 
 ## 🚀 Features
 
@@ -40,7 +40,7 @@ This is a standard Gatekeeper security step for apps not from the App Store. No 
 
 ## 🗑️ Temporary Utility Notice
 
-Koostos was built as a personal offline utility; ideal for quick, one-time scans of your local network.
+Koostos was built as a personal offline utility; ideal for quick, one time scans of your local network.
 
 If no anomalies are found, feel free to delete the app. It's not meant to be a long-term install or ongoing monitoring tool.
 
